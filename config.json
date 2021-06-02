@@ -4,6 +4,8 @@
   "title": "heppoko_yuki's Gallery",
   "sort-albums-by": "start-date",
   "sort-media-by": "date",
+  "photo-quality": 100,
+  "large-size": 2500,
   "download-photos": "copy",
   "cleanup": true,
   "embed-exif": true,
