@@ -3,6 +3,7 @@
   "output": "./build_output",
   "title": "heppoko_yuki's Gallery",
   "sort-albums-by": "start-date",
+  "sort-albums-direction": "desc",
   "sort-media-by": "date",
   "photo-quality": 100,
   "large-size": 2500,
